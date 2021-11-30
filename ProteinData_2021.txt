@@ -1,0 +1,15 @@
+Absorbance (OD750) values for standard curve and samples A-F												
+												
+ 			Standard Curve						Samples			
+ul BSA	0	5	10	15	20	25						
+mg/ml	0.00	0.25	0.50	0.75	1.00	1.25	A	B	C	D	E	F
+												
+Dataset 1	0	0.128	0.209	0.318	0.378	0.432	0.362	0.361	0.385	0.392	0.374	0.367
+												
+Dataset 2	0	0.135	0.222	0.322	0.45	0.494	0.464	0.44	0.442	0.458	0.432	0.445
+												
+Dataset 3	0	0.107	0.194	0.248	0.317	0.366	0.316	0.302	0.318	0.33	0.31	0.332
+
+Note: "mg/ml" reflects the concentration in relation to the original samples A-F, not the diluted amount in the cuvette placed in the spectrophotometer.
+Thus, you can use these values directly for plotting the standard curve and calculating the concentrations in samples A-F.
+
