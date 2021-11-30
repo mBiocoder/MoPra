@@ -2,7 +2,7 @@ library(ggplot2)
 library(data.table)
 
 #Read file
-#setwd("C:/Users/mahim/Semester5/MoPra/LabReports/Report2/src")
+#setwd("C:/Users/Semester5/MoPra/LabReports/Report2/src")
 data <- read.csv("curvedata", sep="\t")
 data
 
